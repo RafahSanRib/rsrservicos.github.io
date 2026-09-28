@@ -1,0 +1,24 @@
+RSR - Sites (raiz do repositorio)
+
+Estrutura:
+├── index.html          pagina inicial (leva aos outros dois sites)
+├── principal/           css, js e img usados pelo index.html da raiz
+│   ├── css/style.css
+│   ├── js/script.js
+│   └── img/
+├── Bolos/                RSR Ebenezer - Homemade Cakes
+│   ├── index.html
+│   ├── css/style.css
+│   ├── js/script.js
+│   └── img/
+└── informatica/          RSR Solucoes em Informatica
+    ├── index.html
+    ├── css/style.css
+    ├── js/script.js
+    └── img/
+
+Para testar: abra index.html no navegador, mantendo todas as pastas juntas.
+Para publicar no GitHub Pages: envie o conteudo desta pasta para a raiz do
+repositorio usuario.github.io.
+Trocar foto: substitua o arquivo em img/ mantendo o mesmo nome.
+Trocar cores: edite as variaveis no inicio de cada css/style.css.

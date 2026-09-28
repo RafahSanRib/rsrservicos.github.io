@@ -1,0 +1,1 @@
+document.getElementById('f').onsubmit=function(e){e.preventDefault();var t='Olá! Sou '+n.value+'. Quero orçamento: '+s.value+'. '+m.value;window.open('https://wa.me/5512982326706?text='+encodeURIComponent(t),'_blank')}
